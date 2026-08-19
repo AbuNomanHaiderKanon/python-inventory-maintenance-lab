@@ -1,0 +1,4 @@
+loguru>=0.7
+pysnooper>=1.2
+viztracer>=1.0
+snakeviz>=2.2
